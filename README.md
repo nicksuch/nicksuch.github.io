@@ -9,10 +9,10 @@ Nick's test page for Bootcamp
 
 1. Visit https://jekyllrb.com/
 
- 1. `gem install ...` doesn't work?
- 2. Do you have Homebrew? If not, [install Homebrew](https://brew.sh/).
- 3. [Install rbenv using Homebrew](https://github.com/rbenv/rbenv#homebrew-on-macos)
- 4. Does `jekyll serve` work?
+ - `gem install ...` doesn't work?
+ - Do you have Homebrew? If not, [install Homebrew](https://brew.sh/).
+ - [Install rbenv using Homebrew](https://github.com/rbenv/rbenv#homebrew-on-macos)
+ - Does `jekyll serve` work?
 
 2. Jekyll ingredients
 
